@@ -3,8 +3,8 @@
 ### App Description
 A simple project using Android Studio involving basic manipulation of text and background colors.
 
-### App Walk-though
-<img src="helloapp.gif" width=200><br>
+### App Walk-Through
+<img src="helloapp.gif" width=300><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
